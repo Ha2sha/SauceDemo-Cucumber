@@ -1,0 +1,14 @@
+2022-05-18 10:05:390 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-18 10:05:526 INFO  LoginPage :33 - Entering User Name  : standard_user
+2022-05-18 10:05:638 INFO  LoginPage :38 - Entering Password  : secret_sauce
+2022-05-18 10:05:816 INFO  LoginPage :43 - Clicking on Login Button. 
+2022-05-18 10:05:04 INFO  ProductsPage :37 - Selecting sort by price High to Low : Price (high to low)
+2022-05-18 10:05:97 INFO  ProductsPage :42 - Adding Costliest Product to cart. 
+2022-05-18 10:05:165 INFO  ProductsPage :46 - Adding Cheapest Product to cart. 
+2022-05-18 10:05:261 INFO  ProductsPage :51 - Opening Shopping Cart. 
+2022-05-18 10:05:348 INFO  ShoppingCartPage :25 - Clicking on Checkout Button. 
+2022-05-18 10:05:441 INFO  CheckOutPage :47 - Entering First Name: Hina
+2022-05-18 10:05:545 INFO  CheckOutPage :52 - Entering Last Name: Devani
+2022-05-18 10:05:638 INFO  CheckOutPage :57 - Entering PostCode: HA3
+2022-05-18 10:05:744 INFO  CheckOutPage :62 - Clicking on Continue Button. 
+2022-05-18 10:05:835 INFO  CheckOutPage :67 - Clicking on Finish Button. 
